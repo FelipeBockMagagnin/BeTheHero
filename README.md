@@ -1,2 +1,2 @@
 # BeTheHero-Api
-A nodejs api
+BackEnd nodejs, curso da Semana OmniStack 11.0
