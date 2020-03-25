@@ -1,0 +1,29 @@
+{
+  "name": "bethehero-api",
+  "version": "1.0.0",
+  "description": "A nodejs api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeBockMagagnin/BeTheHero-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeBockMagagnin/BeTheHero-Api/issues"
+  },
+  "homepage": "https://github.com/FelipeBockMagagnin/BeTheHero-Api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
