@@ -19,7 +19,7 @@ module.exports = {
             whatsapp, 
             city, 
             uf
-        })
+        });
     
         console.log('inserida ong numero', result);
     
