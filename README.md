@@ -14,7 +14,7 @@ Tecnologias utilizadas:
 - Node.js
 - Express
 
-### Projeto
+## Projeto
 <b>Be The Hero<b> busca conectar ONGS a pessoas dispostas à ajuda-las financeiramente.
 <br>
   
